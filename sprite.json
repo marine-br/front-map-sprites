@@ -1,226 +1,58 @@
 {
-  "gray_n1": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
+  "n1": {
+    "height": 122,
+    "pixelRatio": 18,
+    "width": 122,
     "x": 0,
     "y": 0
   },
-  "gray_n2": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 48,
+  "n2": {
+    "height": 122,
+    "pixelRatio": 18,
+    "width": 122,
+    "x": 122,
     "y": 0
   },
-  "gray_n3": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
+  "n3": {
+    "height": 122,
+    "pixelRatio": 18,
+    "width": 122,
     "x": 0,
-    "y": 48
+    "y": 122
   },
-  "gray_n4": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 48,
-    "y": 48
+  "n4": {
+    "height": 122,
+    "pixelRatio": 18,
+    "width": 122,
+    "x": 122,
+    "y": 122
   },
-  "gray_n5": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 96,
+  "n5": {
+    "height": 122,
+    "pixelRatio": 18,
+    "width": 122,
+    "x": 244,
     "y": 0
   },
-  "gray_n6": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 144,
+  "n6": {
+    "height": 122,
+    "pixelRatio": 18,
+    "width": 122,
+    "x": 366,
     "y": 0
   },
-  "gray_n7": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 96,
-    "y": 48
+  "n7": {
+    "height": 122,
+    "pixelRatio": 18,
+    "width": 122,
+    "x": 244,
+    "y": 122
   },
-  "gray_n8": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 144,
-    "y": 48
-  },
-  "green_n1": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 0,
-    "y": 96
-  },
-  "green_n2": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 48,
-    "y": 96
-  },
-  "green_n3": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 96,
-    "y": 96
-  },
-  "green_n4": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 144,
-    "y": 96
-  },
-  "green_n5": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 0,
-    "y": 144
-  },
-  "green_n6": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 48,
-    "y": 144
-  },
-  "green_n7": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 96,
-    "y": 144
-  },
-  "green_n8": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 144,
-    "y": 144
-  },
-  "red_n1": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 192,
-    "y": 0
-  },
-  "red_n2": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 240,
-    "y": 0
-  },
-  "red_n3": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 288,
-    "y": 0
-  },
-  "red_n4": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 336,
-    "y": 0
-  },
-  "red_n5": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 192,
-    "y": 48
-  },
-  "red_n6": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 240,
-    "y": 48
-  },
-  "red_n7": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 288,
-    "y": 48
-  },
-  "red_n8": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 336,
-    "y": 48
-  },
-  "yellow_n1": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 192,
-    "y": 96
-  },
-  "yellow_n2": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 240,
-    "y": 96
-  },
-  "yellow_n3": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 288,
-    "y": 96
-  },
-  "yellow_n4": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 336,
-    "y": 96
-  },
-  "yellow_n5": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 192,
-    "y": 144
-  },
-  "yellow_n6": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 240,
-    "y": 144
-  },
-  "yellow_n7": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 288,
-    "y": 144
-  },
-  "yellow_n8": {
-    "height": 48,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 336,
-    "y": 144
+  "n8": {
+    "height": 122,
+    "pixelRatio": 18,
+    "width": 122,
+    "x": 366,
+    "y": 122
   }
 }
