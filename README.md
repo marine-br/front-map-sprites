@@ -14,3 +14,12 @@ Run the cmd, first arg is the filename of the output and second is the target fo
 spritezero sprite icons 
 ```
 
+Please optimize your icons before push to this repo. An easy way to do this is use the following tool:
+
+https://github.com/svg/svgo
+
+
+```shell
+# svgo -f <input folder> <output folder>
+ svgo -f icons min 
+```
