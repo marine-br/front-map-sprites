@@ -1,282 +1,317 @@
 {
   "n1_aqua": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
+    "width": 70,
     "x": 0,
     "y": 0
   },
   "n1_blue": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 176,
+    "width": 70,
+    "x": 70,
     "y": 0
   },
   "n1_green": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
+    "width": 70,
     "x": 0,
-    "y": 168
+    "y": 72
   },
   "n1_red": {
-    "height": 168,
+    "height": 70,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 176,
-    "y": 168
+    "width": 70,
+    "x": 0,
+    "y": 288
   },
   "n1_yellow": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 0,
-    "y": 336
+    "width": 70,
+    "x": 70,
+    "y": 72
   },
   "n2_aqua": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 176,
-    "y": 336
+    "width": 70,
+    "x": 140,
+    "y": 0
   },
   "n2_blue": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 0,
-    "y": 504
+    "width": 70,
+    "x": 210,
+    "y": 0
   },
   "n2_green": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 176,
-    "y": 504
+    "width": 70,
+    "x": 140,
+    "y": 72
   },
   "n2_red": {
-    "height": 168,
+    "height": 70,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 352,
-    "y": 0
+    "width": 70,
+    "x": 70,
+    "y": 288
   },
   "n2_yellow": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 528,
-    "y": 0
+    "width": 70,
+    "x": 210,
+    "y": 72
   },
   "n3_aqua": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 352,
-    "y": 168
+    "width": 70,
+    "x": 0,
+    "y": 144
   },
   "n3_blue": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 528,
-    "y": 168
+    "width": 70,
+    "x": 70,
+    "y": 144
   },
   "n3_green": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 352,
-    "y": 336
+    "width": 70,
+    "x": 140,
+    "y": 144
   },
   "n3_red": {
-    "height": 168,
+    "height": 70,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 528,
-    "y": 336
+    "width": 70,
+    "x": 140,
+    "y": 288
   },
   "n3_yellow": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 352,
-    "y": 504
+    "width": 70,
+    "x": 210,
+    "y": 144
   },
   "n4_aqua": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 528,
-    "y": 504
+    "width": 70,
+    "x": 0,
+    "y": 216
   },
   "n4_blue": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 0,
-    "y": 672
+    "width": 70,
+    "x": 70,
+    "y": 216
   },
   "n4_green": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 176,
-    "y": 672
+    "width": 70,
+    "x": 140,
+    "y": 216
   },
   "n4_red": {
-    "height": 168,
+    "height": 70,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 352,
-    "y": 672
+    "width": 70,
+    "x": 210,
+    "y": 288
   },
   "n4_yellow": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 528,
-    "y": 672
+    "width": 70,
+    "x": 210,
+    "y": 216
   },
   "n5_aqua": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 0,
-    "y": 840
+    "width": 70,
+    "x": 280,
+    "y": 0
   },
   "n5_blue": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 176,
-    "y": 840
+    "width": 70,
+    "x": 350,
+    "y": 0
   },
   "n5_green": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 352,
-    "y": 840
+    "width": 70,
+    "x": 420,
+    "y": 0
   },
   "n5_red": {
-    "height": 168,
+    "height": 70,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 528,
-    "y": 840
+    "width": 70,
+    "x": 280,
+    "y": 288
   },
   "n5_yellow": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 0,
-    "y": 1008
+    "width": 70,
+    "x": 490,
+    "y": 0
   },
   "n6_aqua": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 176,
-    "y": 1008
+    "width": 70,
+    "x": 280,
+    "y": 72
   },
   "n6_blue": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 352,
-    "y": 1008
+    "width": 70,
+    "x": 350,
+    "y": 72
   },
   "n6_green": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 528,
-    "y": 1008
+    "width": 70,
+    "x": 420,
+    "y": 72
   },
   "n6_red": {
-    "height": 168,
+    "height": 70,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 0,
-    "y": 1176
+    "width": 70,
+    "x": 350,
+    "y": 288
   },
   "n6_yellow": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 176,
-    "y": 1176
+    "width": 70,
+    "x": 490,
+    "y": 72
   },
   "n7_aqua": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 352,
-    "y": 1176
+    "width": 70,
+    "x": 280,
+    "y": 144
   },
   "n7_blue": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 528,
-    "y": 1176
+    "width": 70,
+    "x": 350,
+    "y": 144
   },
   "n7_green": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 704,
-    "y": 0
+    "width": 70,
+    "x": 420,
+    "y": 144
   },
   "n7_red": {
-    "height": 168,
+    "height": 70,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 880,
-    "y": 0
+    "width": 70,
+    "x": 420,
+    "y": 288
   },
   "n7_yellow": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 1056,
-    "y": 0
+    "width": 70,
+    "x": 490,
+    "y": 144
   },
   "n8_aqua": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 1232,
-    "y": 0
+    "width": 70,
+    "x": 280,
+    "y": 216
   },
   "n8_blue": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 704,
-    "y": 168
+    "width": 70,
+    "x": 350,
+    "y": 216
   },
   "n8_green": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 880,
-    "y": 168
+    "width": 70,
+    "x": 420,
+    "y": 216
   },
   "n8_red": {
-    "height": 168,
+    "height": 70,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 1056,
-    "y": 168
+    "width": 70,
+    "x": 490,
+    "y": 288
   },
   "n8_yellow": {
-    "height": 168,
+    "height": 72,
     "pixelRatio": 2,
-    "width": 176,
-    "x": 1232,
-    "y": 168
+    "width": 70,
+    "x": 490,
+    "y": 216
+  },
+  "popup_aqua": {
+    "height": 56,
+    "pixelRatio": 2,
+    "width": 246,
+    "x": 0,
+    "y": 358
+  },
+  "popup_blue": {
+    "height": 56,
+    "pixelRatio": 2,
+    "width": 246,
+    "x": 246,
+    "y": 358
+  },
+  "popup_green": {
+    "height": 56,
+    "pixelRatio": 2,
+    "width": 246,
+    "x": 0,
+    "y": 414
+  },
+  "popup_red": {
+    "height": 56,
+    "pixelRatio": 2,
+    "width": 246,
+    "x": 246,
+    "y": 414
+  },
+  "popup_yellow": {
+    "height": 56,
+    "pixelRatio": 2,
+    "width": 246,
+    "x": 0,
+    "y": 470
   }
 }
