@@ -278,40 +278,5 @@
     "width": 70,
     "x": 490,
     "y": 216
-  },
-  "popup_aqua": {
-    "height": 56,
-    "pixelRatio": 2,
-    "width": 246,
-    "x": 0,
-    "y": 358
-  },
-  "popup_blue": {
-    "height": 56,
-    "pixelRatio": 2,
-    "width": 246,
-    "x": 246,
-    "y": 358
-  },
-  "popup_green": {
-    "height": 56,
-    "pixelRatio": 2,
-    "width": 246,
-    "x": 0,
-    "y": 414
-  },
-  "popup_red": {
-    "height": 56,
-    "pixelRatio": 2,
-    "width": 246,
-    "x": 246,
-    "y": 414
-  },
-  "popup_yellow": {
-    "height": 56,
-    "pixelRatio": 2,
-    "width": 246,
-    "x": 0,
-    "y": 470
   }
 }
