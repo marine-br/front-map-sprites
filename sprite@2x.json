@@ -1,13 +1,13 @@
 {
   "n1_aqua": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 0,
     "y": 0
   },
   "n1_blue": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 70,
@@ -18,272 +18,272 @@
     "pixelRatio": 2,
     "width": 96,
     "x": 0,
-    "y": 358
+    "y": 350
   },
   "n1_green": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 0,
-    "y": 72
+    "y": 70
   },
   "n1_red": {
     "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 0,
-    "y": 288
+    "x": 70,
+    "y": 70
   },
   "n1_yellow": {
-    "height": 72,
-    "pixelRatio": 2,
-    "width": 70,
-    "x": 70,
-    "y": 72
-  },
-  "n2_aqua": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 140,
     "y": 0
   },
-  "n2_blue": {
-    "height": 72,
+  "n2_aqua": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 210,
     "y": 0
   },
-  "n2_green": {
-    "height": 72,
+  "n2_blue": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 140,
-    "y": 72
+    "y": 70
+  },
+  "n2_green": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 210,
+    "y": 70
   },
   "n2_red": {
     "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 70,
-    "y": 288
+    "x": 0,
+    "y": 140
   },
   "n2_yellow": {
-    "height": 72,
-    "pixelRatio": 2,
-    "width": 70,
-    "x": 210,
-    "y": 72
-  },
-  "n3_aqua": {
-    "height": 72,
-    "pixelRatio": 2,
-    "width": 70,
-    "x": 0,
-    "y": 144
-  },
-  "n3_blue": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 70,
-    "y": 144
+    "y": 140
   },
-  "n3_green": {
-    "height": 72,
+  "n3_aqua": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 140,
-    "y": 144
+    "y": 140
+  },
+  "n3_blue": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 210,
+    "y": 140
+  },
+  "n3_green": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 0,
+    "y": 210
   },
   "n3_red": {
     "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 140,
-    "y": 288
+    "x": 70,
+    "y": 210
   },
   "n3_yellow": {
-    "height": 72,
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 140,
+    "y": 210
+  },
+  "n4_aqua": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 210,
-    "y": 144
-  },
-  "n4_aqua": {
-    "height": 72,
-    "pixelRatio": 2,
-    "width": 70,
-    "x": 0,
-    "y": 216
+    "y": 210
   },
   "n4_blue": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 70,
-    "y": 216
+    "x": 280,
+    "y": 0
   },
   "n4_green": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 140,
-    "y": 216
+    "x": 350,
+    "y": 0
   },
   "n4_red": {
     "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 210,
-    "y": 288
+    "x": 420,
+    "y": 0
   },
   "n4_yellow": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 210,
-    "y": 216
+    "x": 490,
+    "y": 0
   },
   "n5_aqua": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 280,
-    "y": 0
+    "y": 70
   },
   "n5_blue": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 350,
-    "y": 0
+    "y": 70
   },
   "n5_green": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 420,
-    "y": 0
+    "y": 70
   },
   "n5_red": {
     "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 280,
-    "y": 288
+    "x": 490,
+    "y": 70
   },
   "n5_yellow": {
-    "height": 72,
-    "pixelRatio": 2,
-    "width": 70,
-    "x": 490,
-    "y": 0
-  },
-  "n6_aqua": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 280,
-    "y": 72
+    "y": 140
   },
-  "n6_blue": {
-    "height": 72,
+  "n6_aqua": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 350,
-    "y": 72
+    "y": 140
   },
-  "n6_green": {
-    "height": 72,
+  "n6_blue": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 420,
-    "y": 72
+    "y": 140
+  },
+  "n6_green": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 490,
+    "y": 140
   },
   "n6_red": {
     "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 350,
-    "y": 288
+    "x": 280,
+    "y": 210
   },
   "n6_yellow": {
-    "height": 72,
-    "pixelRatio": 2,
-    "width": 70,
-    "x": 490,
-    "y": 72
-  },
-  "n7_aqua": {
-    "height": 72,
-    "pixelRatio": 2,
-    "width": 70,
-    "x": 280,
-    "y": 144
-  },
-  "n7_blue": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 350,
-    "y": 144
+    "y": 210
   },
-  "n7_green": {
-    "height": 72,
+  "n7_aqua": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 420,
-    "y": 144
+    "y": 210
+  },
+  "n7_blue": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 490,
+    "y": 210
+  },
+  "n7_green": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 0,
+    "y": 280
   },
   "n7_red": {
     "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 420,
-    "y": 288
+    "x": 70,
+    "y": 280
   },
   "n7_yellow": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 490,
-    "y": 144
+    "x": 140,
+    "y": 280
   },
   "n8_aqua": {
-    "height": 72,
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 210,
+    "y": 280
+  },
+  "n8_blue": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 280,
-    "y": 216
+    "y": 280
   },
-  "n8_blue": {
-    "height": 72,
+  "n8_green": {
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 350,
-    "y": 216
-  },
-  "n8_green": {
-    "height": 72,
-    "pixelRatio": 2,
-    "width": 70,
-    "x": 420,
-    "y": 216
+    "y": 280
   },
   "n8_red": {
     "height": 70,
     "pixelRatio": 2,
     "width": 70,
-    "x": 490,
-    "y": 288
+    "x": 420,
+    "y": 280
   },
   "n8_yellow": {
-    "height": 72,
+    "height": 70,
     "pixelRatio": 2,
     "width": 70,
     "x": 490,
-    "y": 216
+    "y": 280
   }
 }

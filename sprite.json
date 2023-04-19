@@ -1,13 +1,13 @@
 {
   "n1_aqua": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 0,
     "y": 0
   },
   "n1_blue": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 35,
@@ -18,272 +18,272 @@
     "pixelRatio": 1,
     "width": 48,
     "x": 0,
-    "y": 179
+    "y": 175
   },
   "n1_green": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 0,
-    "y": 36
+    "y": 35
   },
   "n1_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 0,
-    "y": 144
+    "x": 35,
+    "y": 35
   },
   "n1_yellow": {
-    "height": 36,
-    "pixelRatio": 1,
-    "width": 35,
-    "x": 35,
-    "y": 36
-  },
-  "n2_aqua": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 70,
     "y": 0
   },
-  "n2_blue": {
-    "height": 36,
+  "n2_aqua": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 105,
     "y": 0
   },
-  "n2_green": {
-    "height": 36,
+  "n2_blue": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 70,
-    "y": 36
+    "y": 35
+  },
+  "n2_green": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 105,
+    "y": 35
   },
   "n2_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 35,
-    "y": 144
+    "x": 0,
+    "y": 70
   },
   "n2_yellow": {
-    "height": 36,
-    "pixelRatio": 1,
-    "width": 35,
-    "x": 105,
-    "y": 36
-  },
-  "n3_aqua": {
-    "height": 36,
-    "pixelRatio": 1,
-    "width": 35,
-    "x": 0,
-    "y": 72
-  },
-  "n3_blue": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 35,
-    "y": 72
+    "y": 70
   },
-  "n3_green": {
-    "height": 36,
+  "n3_aqua": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 70,
-    "y": 72
+    "y": 70
+  },
+  "n3_blue": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 105,
+    "y": 70
+  },
+  "n3_green": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 0,
+    "y": 105
   },
   "n3_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 70,
-    "y": 144
+    "x": 35,
+    "y": 105
   },
   "n3_yellow": {
-    "height": 36,
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 70,
+    "y": 105
+  },
+  "n4_aqua": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 105,
-    "y": 72
-  },
-  "n4_aqua": {
-    "height": 36,
-    "pixelRatio": 1,
-    "width": 35,
-    "x": 0,
-    "y": 108
+    "y": 105
   },
   "n4_blue": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 35,
-    "y": 108
+    "x": 140,
+    "y": 0
   },
   "n4_green": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 70,
-    "y": 108
+    "x": 175,
+    "y": 0
   },
   "n4_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 105,
-    "y": 144
+    "x": 210,
+    "y": 0
   },
   "n4_yellow": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 105,
-    "y": 108
+    "x": 245,
+    "y": 0
   },
   "n5_aqua": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 140,
-    "y": 0
+    "y": 35
   },
   "n5_blue": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 175,
-    "y": 0
+    "y": 35
   },
   "n5_green": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 210,
-    "y": 0
+    "y": 35
   },
   "n5_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 140,
-    "y": 144
+    "x": 245,
+    "y": 35
   },
   "n5_yellow": {
-    "height": 36,
-    "pixelRatio": 1,
-    "width": 35,
-    "x": 245,
-    "y": 0
-  },
-  "n6_aqua": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 140,
-    "y": 36
+    "y": 70
   },
-  "n6_blue": {
-    "height": 36,
+  "n6_aqua": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 175,
-    "y": 36
+    "y": 70
   },
-  "n6_green": {
-    "height": 36,
+  "n6_blue": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 210,
-    "y": 36
+    "y": 70
+  },
+  "n6_green": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 245,
+    "y": 70
   },
   "n6_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 175,
-    "y": 144
+    "x": 140,
+    "y": 105
   },
   "n6_yellow": {
-    "height": 36,
-    "pixelRatio": 1,
-    "width": 35,
-    "x": 245,
-    "y": 36
-  },
-  "n7_aqua": {
-    "height": 36,
-    "pixelRatio": 1,
-    "width": 35,
-    "x": 140,
-    "y": 72
-  },
-  "n7_blue": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 175,
-    "y": 72
+    "y": 105
   },
-  "n7_green": {
-    "height": 36,
+  "n7_aqua": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 210,
-    "y": 72
+    "y": 105
+  },
+  "n7_blue": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 245,
+    "y": 105
+  },
+  "n7_green": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 0,
+    "y": 140
   },
   "n7_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 210,
-    "y": 144
+    "x": 35,
+    "y": 140
   },
   "n7_yellow": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 245,
-    "y": 72
+    "x": 70,
+    "y": 140
   },
   "n8_aqua": {
-    "height": 36,
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 105,
+    "y": 140
+  },
+  "n8_blue": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 140,
-    "y": 108
+    "y": 140
   },
-  "n8_blue": {
-    "height": 36,
+  "n8_green": {
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 175,
-    "y": 108
-  },
-  "n8_green": {
-    "height": 36,
-    "pixelRatio": 1,
-    "width": 35,
-    "x": 210,
-    "y": 108
+    "y": 140
   },
   "n8_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
-    "x": 245,
-    "y": 144
+    "x": 210,
+    "y": 140
   },
   "n8_yellow": {
-    "height": 36,
+    "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 245,
-    "y": 108
+    "y": 140
   }
 }
