@@ -320,5 +320,19 @@
     "width": 64,
     "x": 2050,
     "y": 1024
+  },
+  "pin_green": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 2114,
+    "y": 1024
+  },
+  "pin_red": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 2178,
+    "y": 1024
   }
 }

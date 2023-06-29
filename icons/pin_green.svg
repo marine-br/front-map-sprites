@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd"
+    viewBox="0 0 32 32">
+    <path fill="#348a5c"
+        d="M8.5-.5h14c-1.386 6.573-.72 12.906 2 19a16.869 16.869 0 0 1-8 1v12h-2v-12a16.869 16.869 0 0 1-8-1c2.72-6.094 3.386-12.427 2-19Z"
+        style="opacity:1" />
+</svg>
