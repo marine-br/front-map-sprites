@@ -2,27 +2,36 @@
 
 To generate the sprite sheet, run the following commands:
 
-Install the package that will generate the sprite sheet.
+The library bellow only works with node 8:
+
 ```shell
-npm i -g  @beyondtracks/spritezero-cli --force
+nvm install 8
+nvm use 8
+```
+
+Install the package that will generate the sprite sheet.
+
+```shell
+npm i -g  @beyondtracks/spritezero-cli
 ```
 
 Run the cmd, first arg is the filename of the output and second is the target folder with the icons.
+
 ```shell
-spritezero sprite icons 
-```
-**Retina Icons**
-```shell
-spritezero --retina sprite@2x icons 
+spritezero sprite icons
 ```
 
+**Retina Icons**
+
+```shell
+spritezero --retina sprite@2x icons
+```
 
 Please optimize your icons before push to this repo. An easy way to do this is use the following tool:
 
 https://github.com/svg/svgo
 
-
 ```shell
 # svgo -f <input folder> <output folder>
- svgo -f icons min 
+ svgo -f icons min
 ```
