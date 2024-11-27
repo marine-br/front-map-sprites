@@ -17,7 +17,7 @@
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 884,
+    "x": 919,
     "y": 0
   },
   "flag": {
@@ -45,56 +45,63 @@
     "height": 32,
     "pixelRatio": 1,
     "width": 48,
-    "x": 916,
+    "x": 951,
     "y": 0
   },
-  "n1_green": {
+  "n1_gray": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 744,
     "y": 0
   },
-  "n1_orange": {
+  "n1_green": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 779,
     "y": 0
   },
-  "n1_red": {
+  "n1_orange": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 814,
     "y": 0
   },
-  "n1_yellow": {
+  "n1_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 849,
     "y": 0
   },
+  "n1_yellow": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 884,
+    "y": 0
+  },
   "pin": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 964,
+    "x": 999,
     "y": 0
   },
   "pin_green": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 996,
+    "x": 1031,
     "y": 0
   },
   "pin_red": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 1028,
+    "x": 1063,
     "y": 0
   }
 }
