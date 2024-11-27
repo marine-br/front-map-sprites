@@ -17,7 +17,7 @@
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 919,
+    "x": 954,
     "y": 0
   },
   "flag": {
@@ -34,74 +34,81 @@
     "x": 674,
     "y": 0
   },
-  "n1_blue": {
+  "n1_blocked": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 709,
     "y": 0
   },
-  "n1_car": {
-    "height": 32,
-    "pixelRatio": 1,
-    "width": 48,
-    "x": 951,
-    "y": 0
-  },
-  "n1_gray": {
+  "n1_blue": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 744,
     "y": 0
   },
-  "n1_green": {
+  "n1_car": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 48,
+    "x": 986,
+    "y": 0
+  },
+  "n1_gray": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 779,
     "y": 0
   },
-  "n1_orange": {
+  "n1_green": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 814,
     "y": 0
   },
-  "n1_red": {
+  "n1_orange": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 849,
     "y": 0
   },
-  "n1_yellow": {
+  "n1_red": {
     "height": 35,
     "pixelRatio": 1,
     "width": 35,
     "x": 884,
     "y": 0
   },
+  "n1_yellow": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 919,
+    "y": 0
+  },
   "pin": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 999,
+    "x": 1034,
     "y": 0
   },
   "pin_green": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 1031,
+    "x": 1066,
     "y": 0
   },
   "pin_red": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 1063,
+    "x": 1098,
     "y": 0
   }
 }
