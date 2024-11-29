@@ -17,7 +17,7 @@
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 1908,
+    "x": 1978,
     "y": 0
   },
   "flag": {
@@ -52,7 +52,7 @@
     "height": 64,
     "pixelRatio": 2,
     "width": 96,
-    "x": 1972,
+    "x": 2042,
     "y": 0
   },
   "n1_gray": {
@@ -90,25 +90,32 @@
     "x": 1838,
     "y": 0
   },
+  "n2_green": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 1908,
+    "y": 0
+  },
   "pin": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 2068,
+    "x": 2138,
     "y": 0
   },
   "pin_green": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 2132,
+    "x": 2202,
     "y": 0
   },
   "pin_red": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 2196,
-    "y": 0
+    "x": 0,
+    "y": 1024
   }
 }
