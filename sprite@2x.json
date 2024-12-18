@@ -17,7 +17,7 @@
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 1908,
+    "x": 2112,
     "y": 0
   },
   "flag": {
@@ -25,6 +25,13 @@
     "pixelRatio": 2,
     "width": 1152,
     "x": 0,
+    "y": 0
+  },
+  "location_on": {
+    "height": 68,
+    "pixelRatio": 2,
+    "width": 68,
+    "x": 1908,
     "y": 0
   },
   "n1_aqua": {
@@ -52,7 +59,7 @@
     "height": 64,
     "pixelRatio": 2,
     "width": 96,
-    "x": 1972,
+    "x": 2176,
     "y": 0
   },
   "n1_gray": {
@@ -94,21 +101,35 @@
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 2068,
-    "y": 0
+    "x": 0,
+    "y": 1024
   },
   "pin_green": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 2132,
-    "y": 0
+    "x": 64,
+    "y": 1024
   },
   "pin_red": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 2196,
+    "x": 128,
+    "y": 1024
+  },
+  "power_off": {
+    "height": 68,
+    "pixelRatio": 2,
+    "width": 68,
+    "x": 1976,
+    "y": 0
+  },
+  "power_on": {
+    "height": 68,
+    "pixelRatio": 2,
+    "width": 68,
+    "x": 2044,
     "y": 0
   }
 }
